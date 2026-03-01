@@ -1,0 +1,7 @@
+{
+  "name": "Playcast Live",
+  "description": "Elite live sports commentator simulator powered by Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
